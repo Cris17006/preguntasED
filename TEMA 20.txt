@@ -1,0 +1,33 @@
+¿Cuál es uno de los principales paradigmas de programación que admite Python? 
+a) Programación orientada a objetos 
+b) Programación estructurada 
+c) Programación procedural 
+
+Respuesta correcta: a) Programación orientada a objetos
+
+¿Qué tipo de sistema operativo se menciona en el PDF donde se puede instalar Python? 
+a) Windows 
+b) Linux 
+c) macOS 
+
+Respuesta correcta: a) Windows
+
+¿Qué instrucción se utiliza en Python para devolver el valor de una variable en una función? a) break 
+b) return 
+c) yield 
+
+Respuesta correcta: b) return
+
+¿Qué lenguaje de programación se compara con Python en el caso práctico 2 del PDF? 
+a) C++ 
+b) Java 
+c) Ruby 
+
+Respuesta correcta: b) Java
+
+¿Cuál es uno de los principios del Zen de Python mencionado en el PDF? 
+a) La complejidad es mejor que la simplicidad 
+b) La ambigüedad es aceptable en la programación
+c) La legibilidad del código es importante 
+
+Respuesta correcta: c) La legibilidad del código es importante
