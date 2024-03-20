@@ -34,3 +34,11 @@
 	d) push e init
 
 	Opción correcta: b.
+
+5¿Por qué se recomienda utilizar ramas de desarrollo en Git al trabajar en proyectos colaborativos?
+	a) Para dificultar la integración de cambios entre desarrolladores.
+	b) Para mantener un control estricto sobre las versiones del código.
+	c) Para facilitar la colaboración en diferentes funcionalidades sin interferir con la rama principal.
+	d) Para limitar el acceso al repositorio remoto.
+
+Opción correcta: c) Para facilitar la colaboración en diferentes funcionalidades sin interferir con la rama principal.
