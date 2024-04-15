@@ -1,33 +1,39 @@
-¿Cuál es uno de los principales paradigmas de programación que admite Python? 
-a) Programación orientada a objetos 
-b) Programación estructurada 
-c) Programación procedural 
+1. ¿Qué plataforma es conocida por permitir el control de versiones con múltiples herramientas como Git, SVN, etc.?
+   A) GitLab
+   B) GitHub
+   C) GNU Savannah
+   D) Gitea
 
-Respuesta correcta: a) Programación orientada a objetos
+   Respuesta correcta: C) GNU Savannah
 
-¿Qué tipo de sistema operativo se menciona en el PDF donde se puede instalar Python? 
-a) Windows 
-b) Linux 
-c) macOS 
+2. ¿Qué característica diferencia a GitLab de GitHub en cuanto a la granularidad de los permisos de compartición de código?
+   A) GitLab permite establecer permisos a nivel de repositorio y archivos
+   B) GitHub ofrece mayor detalle en la fijación de permisos
+   C) GitLab permite determinar qué parte de un repositorio compartir con colaboradores
+   D) GitHub no permite compartir código con colaboradores
 
-Respuesta correcta: a) Windows
+   Respuesta correcta: C) GitLab permite determinar qué parte de un repositorio compartir con colaboradores
 
-¿Qué instrucción se utiliza en Python para devolver el valor de una variable en una función? a) break 
-b) return 
-c) yield 
+3. ¿Qué alternativa se plantea en el PDF para realizar copias de seguridad del código fuente de una empresa?
 
-Respuesta correcta: b) return
+   A) Utilizar un servidor local para almacenar las copias de seguridad
+   B) Contratar un servicio de copias de seguridad externo
+   C) Utilizar servicios basados en la nube para realizar copias de seguridad
+   D) No realizar copias de seguridad
+   Respuesta correcta: C) Utilizar servicios basados en la nube para realizar copias de seguridad
 
-¿Qué lenguaje de programación se compara con Python en el caso práctico 2 del PDF? 
-a) C++ 
-b) Java 
-c) Ruby 
+4. ¿Qué tipo de arquitectura Cloud permite utilizar el software a través de aplicaciones con conexiones remotas?
 
-Respuesta correcta: b) Java
+   A) IaaS (Infraestructura como Servicio)
+   B) PaaS (Plataforma como Servicio)
+   C) SaaS (Software como Servicio)
+   D) NaaS (Network as a Service)
+   Respuesta correcta: C) SaaS (Software como Servicio)
 
-¿Cuál es uno de los principios del Zen de Python mencionado en el PDF? 
-a) La complejidad es mejor que la simplicidad 
-b) La ambigüedad es aceptable en la programación
-c) La legibilidad del código es importante 
+5. ¿Qué herramienta de escritorio se menciona en el PDF para gestionar proyectos en GitHub?
 
-Respuesta correcta: c) La legibilidad del código es importante
+   A) GitKraken
+   B) GitHub Desktop
+   C) GitLab Desktop
+   D) GitHub Manager
+   Respuesta correcta: B) GitHub Desktop
