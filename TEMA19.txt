@@ -40,50 +40,52 @@ C) Solo consulta de datos.
 D) Solo modificación de datos. 
 Respuesta correcta: B)
 
-7. ¿Qué ventaja ofrecen las bases de datos relacionales para el tratamiento de grandes cantidades de información? 
+7. ¿Por qué se sugiere migrar las consultas QBE a SODA en un proyecto de bases de datos orientadas a objetos?
+   - A) Para aumentar la compatibilidad con otros sistemas.
+   - B) Para evitar problemas de incompatibilidad al utilizar dos tipos de consultas.
+   - C) Para simplificar el proceso de consulta de datos.
+   - D) Para reducir el tiempo de ejecución de las consultas.
 
-A) Almacenamiento en ficheros secuenciales. B) Acceso lento a la información. 
-C) Optimización para almacenar grandes volúmenes de información. 
-D) Limitación en la cantidad de datos almacenados. 
+Respuesta correcta: B
 
-Respuesta correcta: C) 
+8. ¿Por qué se sugiere migrar las consultas QBE a SODA en un proyecto de bases de datos orientadas a objetos?
+   - A) Para aumentar la compatibilidad con otros sistemas.
+   - B) Para evitar problemas de incompatibilidad al utilizar dos tipos de consultas.
+   - C) Para simplificar el proceso de consulta de datos.
+   - D) Para reducir el tiempo de ejecución de las consultas.
 
-8. ¿Qué se recomienda en programación para evitar la repetición excesiva de código al conectar a una base de datos? 
-A) Repetir el código tantas veces como sea necesario. 
-B) Reutilizar el código escrito lo mínimo posible. 
-C) No preocuparse por la estructura del programa. 
-D) Utilizar diferentes códigos para cada operación. 
+Respuesta correcta: C
 
-Respuesta correcta: B) 
+9. ¿Qué se puede realizar con consultas avanzadas en SODA?
+   - A) Actualizar la información de los objetos.
+   - B) Eliminar objetos de la base de datos.
+   - C) Ordenar los resultados de la consulta.
+   - D) Filtrar resultados con condiciones específicas.
 
-9. ¿Por qué es importante elegir adecuadamente el tipo de base de datos a utilizar en un proyecto de programación? 
+Respuesta correcta: D
 
-A) No es relevante, ya que todas las bases de datos son iguales. 
-B) Para complicar el desarrollo del proyecto. 
-C) Para garantizar un almacenamiento eficiente de la información. 
-D) Para aumentar la cantidad de código necesario. 
 
-Respuesta correcta: C) 
+10. ¿Qué se debe hacer una vez que se ha modelado una consulta SODA?
+   - A) Llamar al método query() del objeto 	ObjectContainer.
+   - B) Añadir Constraints al Query.
+   - C) Llamar al método execute() del 	objeto Query.
+   - D) Crear un nuevo objeto Query.
 
-10. ¿Qué tipo de operaciones básicas se pueden realizar en una base de datos relacional? 
-A) Solo inserción de datos. 
-B) Inserción, consulta, borrado y modificación de datos. 
-C) Solo consulta de datos. 
-D) Solo modificación de datos. 
+Respuesta correcta: C
 
-Respuesta correcta: B)
 
-11. ¿Qué papel juega la programación orientada a objetos en la gestión de bases de datos? 
-A) No tiene relación con la gestión de bases de datos. 
-B) Facilita la reutilización de código y la estructuración de los programas. 
-C) Complica la conexión a la base de datos. D) Limita las operaciones que se pueden realizar en la base de datos. 
+11. ¿Qué ventaja se menciona de las consultas SODA en comparación con las consultas QBE?
+   - A) Mayor compatibilidad con bases de datos relacionales.
+   - B) Ejecución más rápida y generación de consultas dinámicas.
+   - C) Mayor facilidad de aprendizaje.
+   - D) Menor flexibilidad en la creación de consultas.
 
-Respuesta correcta: B)
+Respuesta correcta: B
 
-12. ¿Qué ventaja ofrece una interfaz gráfica en la gestión de la información de una base de datos? 
-A) Mayor complejidad en la visualización de datos. 
-B) Facilita la gestión de la información de forma visual e intuitiva. 
-C) No aporta beneficios en la gestión de la información. 
-D) Limita las operaciones que se pueden realizar en la base de datos. 
+12. ¿Qué permite la clase Constraint en el contexto de consultas SODA?
+   - A) Agregar restricciones a las consultas.
+   - B) Crear nuevos objetos Query.
+   - C) Ejecutar consultas de forma dinámica.
+   - D) Modificar la estructura de la base de datos.
 
-Respuesta correcta: B)
+Respuesta correcta: A
