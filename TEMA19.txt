@@ -1,0 +1,41 @@
+1. ¿Qué tipo de consultas se pueden realizar en una base de datos orientada a objetos?
+   A) Consultas SQL
+   B) Consultas QBE
+   C) Consultas SODA
+   D) Consultas NoSQL
+   Respuesta correcta: C) Consultas SODA
+
+2. ¿Qué clase nos permite agregar restricciones a las consultas SODA?
+   A) Clase Funcionalidad
+   B) Clase Query
+   C) Clase Constraint
+   D) Clase Tabla
+   Respuesta correcta: C) Clase Constraint
+
+3. ¿Qué tipo de consultas no sería posible realizar con QBE, pero sí con SODA?
+   A) Consultas simples
+   B) Consultas avanzadas
+   C) Consultas complejas
+   D) Consultas básicas
+   Respuesta correcta: B) Consultas avanzadas
+
+4. ¿Qué se necesita para definir todo tipo de restricciones en consultas SODA?
+   A) Objeto de tipo Funcionalidad
+   B) Objeto de tipo Query
+   C) Objeto de tipo Constraint
+   D) Objeto de tipo Tabla
+   Respuesta correcta: C) Objeto de tipo Constraint
+
+5. ¿Cómo se pueden recuperar todos los objetos de un tipo concreto en SODA?
+   A) Mediante consultas SQL
+   B) Mediante consultas QBE
+   C) Mediante consultas SODA
+   D) Mediante consultas NoSQL
+   Respuesta correcta: C) Mediante consultas SODA
+
+6. ¿Cuál es el lenguaje de consultas más completo y que cubre todas las consultas en un proyecto de bases de datos orientadas a objetos?
+   A) SQL
+   B) QBE
+   C) SODA
+   D) NoSQL
+   Respuesta correcta: C) SODA
