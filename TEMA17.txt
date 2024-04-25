@@ -39,3 +39,49 @@
    C) Eclipse
    D) Visual Studio
    Respuesta correcta: B) XAMPP
+
+7. ¿Qué ventaja ofrecen las bases de datos relacionales para el tratamiento de grandes cantidades de información? 
+
+A) Almacenamiento en ficheros secuenciales. B) Acceso lento a la información. 
+C) Optimización para almacenar grandes volúmenes de información. 
+D) Limitación en la cantidad de datos almacenados. 
+
+Respuesta correcta: C) 
+
+8. ¿Qué se recomienda en programación para evitar la repetición excesiva de código al conectar a una base de datos? 
+A) Repetir el código tantas veces como sea necesario. 
+B) Reutilizar el código escrito lo mínimo posible. 
+C) No preocuparse por la estructura del programa. 
+D) Utilizar diferentes códigos para cada operación. 
+
+Respuesta correcta: B) 
+
+9. ¿Por qué es importante elegir adecuadamente el tipo de base de datos a utilizar en un proyecto de programación? 
+
+A) No es relevante, ya que todas las bases de datos son iguales. 
+B) Para complicar el desarrollo del proyecto. 
+C) Para garantizar un almacenamiento eficiente de la información. 
+D) Para aumentar la cantidad de código necesario. 
+
+Respuesta correcta: C) 
+
+10. ¿Qué tipo de operaciones básicas se pueden realizar en una base de datos relacional? 
+A) Solo inserción de datos. 
+B) Inserción, consulta, borrado y modificación de datos. 
+C) Solo consulta de datos. 
+D) Solo modificación de datos. 
+
+Respuesta correcta: B)
+
+11. ¿Qué papel juega la programación orientada a objetos en la gestión de bases de datos? 
+A) No tiene relación con la gestión de bases de datos. 
+B) Facilita la reutilización de código y la estructuración de los programas. 
+C) Complica la conexión a la base de datos. D) Limita las operaciones que se pueden realizar en la base de datos. 
+
+Respuesta correcta: B)
+
+12. ¿Qué ventaja ofrece una interfaz gráfica en la gestión de la información de una base de datos? 
+A) Mayor complejidad en la visualización de datos. 
+B) Facilita la gestión de la información de forma visual e intuitiva. 
+C) No aporta beneficios en la gestión de la información. 
+D) Limita las operaciones que se pueden realizar en la base de datos. 
