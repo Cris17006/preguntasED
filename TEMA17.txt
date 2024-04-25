@@ -85,3 +85,7 @@ A) Mayor complejidad en la visualización de datos.
 B) Facilita la gestión de la información de forma visual e intuitiva. 
 C) No aporta beneficios en la gestión de la información. 
 D) Limita las operaciones que se pueden realizar en la base de datos. 
+
+Respuesta correcta: B)
+
+Link del quizzi: https://quizizz.com/admin/quiz/662a1c2a3ca51a5bd5ef270f?source=quiz_share
