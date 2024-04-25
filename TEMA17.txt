@@ -1,0 +1,41 @@
+1. ¿Cuál es el paso inicial para ejecutar una sentencia SELECT en una base de datos relacional?
+   A) Crear un objeto de tipo ResultSet
+   B) Utilizar el método executeQuery
+   C) Conectar con la base de datos
+   D) Crear un objeto de la clase Statement
+   Respuesta correcta: D) Crear un objeto de la clase Statement
+
+2. ¿Qué método se utiliza para obtener el resultado de una consulta SELECT en Java?
+   A) getResult()
+   B) fetchResult()
+   C) executeQuery()
+   D) fetchQuery()
+   Respuesta correcta: C) executeQuery()
+
+3. ¿Qué tipo de excepción puede lanzar el método executeQuery al ejecutar una consulta en Java?
+   A) SQLException
+   B) NullPointerException
+   C) IOException
+   D) ClassNotFoundException
+   Respuesta correcta: A) SQLException
+
+4. ¿Qué se utiliza para recorrer y obtener los valores de un objeto ResultSet en Java?
+   A) Método fetchNext()
+   B) Método next()
+   C) Método getNext()
+   D) Método moveNext()
+   Respuesta correcta: B) Método next()
+
+5. ¿Qué tipo de comillas se utilizan para valores de tipo cadena en una consulta SELECT en una base de datos relacional?
+   A) Comillas simples ('')
+   B) Comillas dobles ("")
+   C) Comillas angulares (<>)
+   D) Comillas invertidas (``)
+   Respuesta correcta: A) Comillas simples ('')
+
+6. ¿Qué programa de software libre contiene un sistema gestor de bases relacionales con MySQL?
+   A) Xcode
+   B) XAMPP
+   C) Eclipse
+   D) Visual Studio
+   Respuesta correcta: B) XAMPP
